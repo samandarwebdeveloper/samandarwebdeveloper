@@ -7,8 +7,7 @@
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
     <a href="https://github.com/samandarwebdeveloper/readme-typing-svg">
-        <img
-                src="https://readme-typing-svg.herokuapp.com/?lines=M%20E%20R%20N%20JavaScript%20Developer;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=JavaScript%20Developer;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>
 
 
