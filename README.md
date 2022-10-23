@@ -155,8 +155,8 @@
                      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Ubuntu"
                      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<!--    <a href="#"><img alt="Debian"
-                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a> -->
+    <a href="#"><img alt="Macos"
+                     src="https://img.shields.io/badge/Macos-A81D33?style=for-the-badge&logo=macos&logoColor=white"></a>
     
 </p>
 
